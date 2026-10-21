@@ -184,8 +184,6 @@ If you use this code or model, please cite:
 Thuyen Pham. (2026). Automated Wing Landmark Detection for Morphological Classification of Winter Moth Species. Honors thesis, University of Massachusetts Amherst.
 ```
 
-Code is released under the <license> license (see [LICENSE](LICENSE)).
-
-Questions or problems: open an issue on this repository, or contact <name> at <email>.
+Questions or problems: open an issue on this repository, or contact Thuyen Pham at thuyenpham@umass.edu.
 
 Built with [Ultralytics YOLO](https://github.com/ultralytics/ultralytics) and [morphops](https://github.com/vaipatel/morphops).
