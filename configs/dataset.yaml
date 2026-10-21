@@ -1,0 +1,37 @@
+path: /home/thuyenpham_umass_edu/honor-thesis/
+
+train: images/train
+val: images/val
+
+kpt_shape: [24, 3]
+
+names: 
+  0: BS
+  1: WM
+
+kpt_names:
+  0: 
+    - kp1
+    - kp2
+    - kp3 
+    - kp4
+    - kp5
+    - kp6
+    - kp7
+    - kp8 
+    - kp9
+    - kp10
+    - kp11
+    - kp12
+    - kp13 
+    - kp14
+    - kp15
+    - kp16
+    - kp17
+    - kp18 
+    - kp19
+    - kp20
+    - kp21
+    - kp22
+    - kp23 
+    - kp24
