@@ -4,7 +4,7 @@ Automatically identify the species of a wing (**BS** or **WM**) from a microscop
 
 This repository contains the code for the honors thesis *<thesis title>* (<your name>, UMass Amherst, 2026). The model is a YOLO26x-Pose network trained on 1,218 hand-landmarked wing images. On 305 held-out validation wings it classifies species with **94.1% accuracy**, compared with **90.2%** for a classical geometric morphometrics (GM) baseline.
 
-> **BS** = *<full species name>* · **WM** = *<full species name>*
+> **BS** = *O. bruceata* · **WM** = *O. brumata*
 
 ---
 
@@ -181,7 +181,7 @@ Step 3 expects the trained weights at `runs/pose/YOLO (v3)/<model>/weights/best.
 If you use this code or model, please cite:
 
 ```
-<Your name>. (2026). <Thesis title>. Honors thesis, University of Massachusetts Amherst.
+Thuyen Pham. (2026). Automated Wing Landmark Detection for Morphological Classification of Winter Moth Species. Honors thesis, University of Massachusetts Amherst.
 ```
 
 Code is released under the <license> license (see [LICENSE](LICENSE)).
