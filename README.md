@@ -32,7 +32,7 @@ The model was trained on images with these properties. Images that look very dif
 
 ### Option A — Google Colab (no installation)
 
-1. Open the notebook: [<Colab link>](https://colab.research.google.com/drive/1elN_rAKpZmy9_xsnQPDLqyeOV5VNvjDR?usp=sharing)
+1. Open the notebook: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ThuyenP/Automated-Wing-Landmark-Detection-for-Morphological-Classification-of-Winter-Moth-Species/blob/main/notebooks/predict_colab.ipynb)
 2. Click **Runtime → Run all**.
 3. When asked, upload your wing images.
 4. When it finishes, download `predictions.csv`.
