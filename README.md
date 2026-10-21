@@ -32,7 +32,7 @@ The model was trained on images with these properties. Images that look very dif
 
 ### Option A — Google Colab (no installation)
 
-1. Open the notebook: **<Colab link>**
+1. Open the notebook: **[<Colab link>](https://colab.research.google.com/drive/1elN_rAKpZmy9_xsnQPDLqyeOV5VNvjDR?usp=sharing)**
 2. Click **Runtime → Run all**.
 3. When asked, upload your wing images.
 4. When it finishes, download `predictions.csv`.
